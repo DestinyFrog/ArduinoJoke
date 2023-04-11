@@ -1,0 +1,8 @@
+server/node_modules
+server/test.js
+
+server_go
+.vscode
+
+arduino/bad_code.png
+arduino/good_code.png
