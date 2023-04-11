@@ -6,3 +6,5 @@ server_go
 
 arduino/bad_code.png
 arduino/good_code.png
+
+.gitignore
