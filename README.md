@@ -11,7 +11,7 @@ Este Projeto tem essa finalidade, testar diversas linguagens de Programação, e
 # Linguagens de Programação
 
 ## Python
-![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/640px-Python_logo_and_wordmark.svg.png "python logo")
+![python logo](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/640px-Python_logo_and_wordmark.svg.png "python logo")  
 Através da biblioteca *'serial'* é possível ler a entrada da porta serial.  
 - importar a biblioteca:
 ```python
